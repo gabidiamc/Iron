@@ -1,0 +1,6 @@
+{
+  "name": "Volunteer Hours Portal",
+  "description": "DMPS Connect Hub - Portal centralizado de recursos, eventos comunitarios y registro verificado de horas de voluntariado escolar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
